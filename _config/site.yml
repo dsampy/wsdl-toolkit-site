@@ -1,4 +1,20 @@
-name: Project Name
-title: Baked with Awestruct
-org: Organization
+name: wsdl-toolkit
+title: wsdl-toolkit
+org: Derrick Ampy
+author: Derrick Ampy
+author_url: https://github.com/dsampy
 base_url: ''
+ctx_path: ''
+interpolate: false 
+haml:
+  :ugly: true
+asciidoctor:
+  :safe: safe
+  :attributes:
+    sitename: wsdl-toolkit
+    base_url: ''
+    ctx_path: ''
+    idprefix: ''
+    idseparator: '-'
+    sectanchors: ''
+    icons: font
